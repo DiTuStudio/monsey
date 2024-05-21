@@ -1,9 +1,9 @@
-# step_runner
+# wallpaper
 
 ## Policy
 
-https://ditustudio.github.io/step_runner/policy.html
+https://ditustudio.github.io/wallpaper/policy.html
 
 ## Term
 
-https://ditustudio.github.io/step_runner/term.html
+https://ditustudio.github.io/wallpaper/term.html

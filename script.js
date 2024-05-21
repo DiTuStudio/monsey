@@ -1,7 +1,7 @@
-var appName = "Step Runner";
+var appName = "Wallpaper";
 var storeUrl =
   "https://codecanyon.net/item/taearn-make-money-flutter-app/44937626";
-var date = "2024-05-16";
+var date = "2024-05-21";
 
 function onIndexLoad() {
   document.title = appName + " Flutter";
