@@ -1,4 +1,4 @@
-var appName = "Wallpaper";
+var appName = "Monsey";
 var storeUrl =
   "https://codecanyon.net/item/taearn-make-money-flutter-app/44937626";
 var date = "2024-05-21";

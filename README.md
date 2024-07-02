@@ -1,9 +1,9 @@
-# wallpaper
+# Monsey
 
 ## Policy
 
-https://ditustudio.github.io/wallpaper/policy.html
+https://ditustudio.github.io/Monsey/policy.html
 
 ## Term
 
-https://ditustudio.github.io/wallpaper/term.html
+https://ditustudio.github.io/Monsey/term.html
