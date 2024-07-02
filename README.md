@@ -2,8 +2,8 @@
 
 ## Policy
 
-https://ditustudio.github.io/Monsey/policy.html
+https://ditustudio.github.io/monsey/policy.html
 
 ## Term
 
-https://ditustudio.github.io/Monsey/term.html
+https://ditustudio.github.io/monsey/term.html
